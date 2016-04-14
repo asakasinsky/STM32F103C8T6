@@ -30,3 +30,6 @@
 
 # Debug files
 *.dSYM/
+
+# Ignore Mac specific files
+.DS_Store
