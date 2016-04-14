@@ -1,5 +1,5 @@
 # STM32F103C8T6
-STM32F103C8T6 C-project for Eclipse tool-chain based on the GNU ARM Plugin
+C-project for Eclipse tool-chain based on the GNU ARM Plugin
 
 
 
